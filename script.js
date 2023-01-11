@@ -71,7 +71,7 @@ function sqrt() {
 }
 
 function log() {
-    screen.value = Math.log(screen.value);
+    screen.value = Math.log10(screen.value);
 }
 
 function pi() {
